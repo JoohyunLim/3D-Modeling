@@ -1,6 +1,6 @@
 # 3D Modeling
 
-### Lion King Nala Modeling(2019) ###
+### Lion King Nala 3D Modeling(2019) ###
 > 3DS MAX 2019 <br>
 > 3D Modeling, Texture Mapping
 <br>
